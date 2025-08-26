@@ -44,6 +44,13 @@
 
 ---
 
+## 📈 README Status
+![Profile Views](https://komarev.com/ghpvc/?username=ajabrii&label=Profile%20views&color=brightgreen&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/ajabrii?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/ajabrii?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ajabrii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
