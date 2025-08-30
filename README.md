@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abdelali+Jabri;1337+Coding+School+Student;Passionate+about+Problem+Solving;Loving+C%2C+C%2B%2B%2C+Python%2C+AI+🤖;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
 
-🚀 Abdelali Jabri — 1337 coding school student.  
+🚀 Abdelali Jabri | 1337 coding school student.  
 💻 I love solving problems, building cool stuff, and exploring AI & low-level programming.  
 
 ![](https://badge.mediaplus.ma/darkblue/ajabri)
