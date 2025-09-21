@@ -7,6 +7,8 @@
 ![](https://badge.mediaplus.ma/darkblue/ajabri)
 
 ---
+## 🕵️ TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xNEO.png)](https://tryhackme.com/p/0xNEO)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ali.jabri.98284) 
@@ -45,8 +47,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ajabrii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## 🕵️ TryHackMe
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xNEO.png)](https://tryhackme.com/p/0xNEO)
 
 
 ## 📈 README Status
