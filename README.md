@@ -16,10 +16,6 @@
 
 ---
 
-## 🕵️ TryHackMe
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xNEO.png)](https://tryhackme.com/p/0xNEO)
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
