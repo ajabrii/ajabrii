@@ -45,6 +45,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ajabrii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 🕵️ TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xNEO.png)](https://tryhackme.com/p/0xNEO)
+
 
 ## 📈 README Status
 ![Profile Views](https://komarev.com/ghpvc/?username=ajabrii&label=Profile%20views&color=brightgreen&style=flat)  
