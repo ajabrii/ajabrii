@@ -16,6 +16,10 @@
 
 ---
 
+## 🕵️ TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xNEO.png)](https://tryhackme.com/p/0xNEO)
+
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -23,6 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+
 
 # 🛠️ Tools I Use:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
